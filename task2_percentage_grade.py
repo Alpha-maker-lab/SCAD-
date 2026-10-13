@@ -1,3 +1,5 @@
+"""Calculate percentage and grade from five subject marks."""
+
 physics = float(input("Enter Physics marks: "))
 chemistry = float(input("Enter Chemistry marks: "))
 biology = float(input("Enter Biology marks: "))

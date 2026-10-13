@@ -1,3 +1,5 @@
+"""Check whether a triangle is equilateral, isosceles, or scalene."""
+
 a = float(input("Enter first side: "))
 b = float(input("Enter second side: "))
 c = float(input("Enter third side: "))

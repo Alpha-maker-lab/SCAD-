@@ -1,3 +1,5 @@
+"""Dummy authentication system with email and password validation."""
+
 email = input("Enter email: ")
 password = input("Enter password: ")
 
